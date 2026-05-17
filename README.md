@@ -18,3 +18,11 @@ Background music from Pixabay Music.
 
 Inspired by classic arcade games from the late 1970s and early 1980s.
 
+## Screenshots
+
+![Start Screen](screenshots/startscreen.png)
+
+![Gameplay](screenshots/gameplay.png)
+
+![Game Over](screenshots/gameover.png)
+

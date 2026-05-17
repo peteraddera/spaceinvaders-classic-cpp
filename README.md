@@ -24,5 +24,7 @@ Inspired by classic arcade games from the late 1970s and early 1980s.
 
 ![Gameplay](screenshot/gameplay.png)
 
+![Gameplay](screenshot/gameover.png)
+
 
 

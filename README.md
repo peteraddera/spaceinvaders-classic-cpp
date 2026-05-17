@@ -20,9 +20,9 @@ Inspired by classic arcade games from the late 1970s and early 1980s.
 
 ## Screenshots
 
-![Start Screen](screenshots/startscreen.png)
+![Start Screen](screenshot/startscreen.png)
 
-![Gameplay](screenshots/gameplay.png)
+![Gameplay](screenshot/gameplay.png)
 
-![Game Over](screenshots/gameover.png)
+![Game Over](screenshot/gameover.png)
 
